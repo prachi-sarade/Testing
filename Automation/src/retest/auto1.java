@@ -5,6 +5,8 @@ public class auto1 {
 	System.out.println("Hello World");
 	System.out.println("Hello1");
 	System.out.println("Hello4");
+	System.out.println("Hello4");
+
 	}
 
 }
