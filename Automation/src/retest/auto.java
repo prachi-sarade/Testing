@@ -8,7 +8,7 @@ public class auto {
 		
 		System.out.println("Hello World");
 		System.out.println("Hello1");
-		
+		System.out.println("Hello1");
 
 	}
 
